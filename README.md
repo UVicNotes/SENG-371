@@ -1,6 +1,6 @@
 #SENG 371: Software Evolution
 ##Website
-http://www.coursespaces.uvic.ca
+http://coursespaces.uvic.ca/
 ##Overview
 - Instructor: Jens Weber
 - Email: jens@uvic.ca

@@ -10,7 +10,7 @@ http://www.coursespaces.uvic.ca
 - Lecture Schedule
   - MWR 2:30-3:20 p.m. ECS 108
 
-##Course Overviewi
+##Course Overview
 Large software systems form the backbone of much of the computing world; modern clients and servers rely on operating systems, database management systems, office productivity suites, web servers, and a variety of other large-scale, non-trivial software packages. Such packages can easily contain many millions of lines of source code, developed by thousands of individuals over the course of many years, often with different versions and revisions across the life of the product.
 
 This course introduces the problems and solutions inherent in developing such large scale software systems. Students will work together in groups to evolve an existing project for the duration of the term. 

@@ -2,13 +2,13 @@
 ##Website
 http://www.coursespaces.uvic.ca
 ##Overview
-Instructor: Jens Weber
-Email: jens@uvic.ca
-Office: ECS616
-Phone Number: (250) 472-5721
-Office Hours: Monday, Friday 10:00 a.m. - 12:00 p.m.
-Lecture Schedule
-    MWR 2:30-3:20 p.m. ECS 108
+- Instructor: Jens Weber
+- Email: jens@uvic.ca
+- Office: ECS616
+- Phone Number: (250) 472-5721
+- Office Hours: Monday, Friday 10:00 a.m. - 12:00 p.m.
+- Lecture Schedule
+  - MWR 2:30-3:20 p.m. ECS 108
 
 ##Course Overviewi
 Large software systems form the backbone of much of the computing world; modern clients and servers rely on operating systems, database management systems, office productivity suites, web servers, and a variety of other large-scale, non-trivial software packages. Such packages can easily contain many millions of lines of source code, developed by thousands of individuals over the course of many years, often with different versions and revisions across the life of the product.
